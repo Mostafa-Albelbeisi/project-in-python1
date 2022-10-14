@@ -1,5 +1,5 @@
-## LAB - Class 04
-## Project: Madlib_CLI
+## LAB - Class 06
+## Project: Project-in-python1
 version: 0.1
 
 ## Author: **Mostafa Albelbeisi & Islam Alghoul**
@@ -8,6 +8,7 @@ version: 0.1
 
 **Setup**
 - pip install -r requirements.txt
+- pip install requests
 - pytest
 
 
@@ -15,7 +16,8 @@ version: 0.1
 - git init
 - python -m venv .venv
 - source .venv/bin/activate
-- python3 madlib_cli/madlib.py
+- python3 For_Series/display_info.py
+- python3 For_Movies/display_info.py
 
 **How to use your library (where applicable)** 
 - Pytest

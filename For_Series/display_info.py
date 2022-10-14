@@ -6,6 +6,8 @@ print('''
          |                              |
          |******************************|
          ''')
+
+         
 print("\n"*2)
 try:
     series_name=input(" ** Enter the Series name: ")
