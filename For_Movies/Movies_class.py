@@ -89,7 +89,6 @@ class Movie(Movies):
              print("\n"*2)
 
 
-
 # spider_man=Movie("spiderman")
 # spider_man.get_data()
 # print(spider_man.get_date())
