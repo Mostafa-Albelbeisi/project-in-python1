@@ -90,6 +90,6 @@ class Movie(Movies):
 
 
 
-# spider_man=Movie("spiderman")
-# spider_man.get_data()
-# print(spider_man.get_date())
+spider_man=Movie("spiderman")
+spider_man.get_data()
+
